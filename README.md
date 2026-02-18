@@ -1,3 +1,5 @@
+This Neverworld Pre-Build is for Linux - to connect your self-hosted region to Neverworld Grid! 
+
 Welcome to OpenSimulator (OpenSim for short)!
 
 # Overview
